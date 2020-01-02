@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EPF</string>
+    <string name="age">Select Date of Birth : </string>
+    <string name="dateOfBirth">Date of Birth</string>
+    <string name="basicSaving">Basic Saving (RM): </string>
+    <string name="enterBasicSaving">Basic Saving Amount (RM)</string>
+    <string name="investmentAllowed">Allowable Investment Amount : RM</string>
+    <string name="calculate">Calculate</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="amount">0</string>
+    <string name="clear">Clear</string>
+    <string name="message">Message</string>
+    <string name="ageNow">Age :</string>
+</resources>
